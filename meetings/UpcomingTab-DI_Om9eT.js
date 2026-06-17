@@ -1,0 +1,1 @@
+import{importShared as e}from"./__federation_fn_import-BRmtu28b.js";import{M as o}from"./MeetingsListView-Bo6_HtHr.js";const{defineComponent:t}=await e("vue"),{openBlock:n,createBlock:c}=await e("vue"),_=t({__name:"UpcomingTab",setup(a){return(r,i)=>(n(),c(o,{mode:"upcoming"}))}});export{_ as default};
