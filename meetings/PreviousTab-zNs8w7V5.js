@@ -1,0 +1,1 @@
+import{importShared as e}from"./__federation_fn_import-BRmtu28b.js";import{M as o}from"./MeetingsListView-DjbVxqh1.js";const{defineComponent:t}=await e("vue"),{openBlock:n,createBlock:r}=await e("vue"),_=t({__name:"PreviousTab",setup(a){return(c,i)=>(n(),r(o,{mode:"previous"}))}});export{_ as default};
